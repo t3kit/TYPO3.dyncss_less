@@ -12,7 +12,8 @@
   },
   "replace": {
     "dyncss_less": "self.version",
-    "typo3-ter/dyncss_less": "self.version"
+    "typo3-ter/dyncss_less": "self.version",
+    "typo3-ter/dyncss-less": "self.version"
   },
   "autoload": {
     "psr-4": {
